@@ -19,6 +19,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
   </a>
 </span>
+<img src="https://img.shields.io/badge/android-34A853?style=flat&logo=android&logoColor=white"/></a>&nbsp
 
 
 
