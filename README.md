@@ -19,6 +19,4 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
   </a>
 </span>
-<div align="center">
-  <img src="https://github.com/min-su08/min-su08/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
+
