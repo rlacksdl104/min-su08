@@ -20,5 +20,5 @@ Here are some ideas to get you started:
   </a>
 </span>
 
-[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=min-su08/badges)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=min-su08/badges)
+
 
