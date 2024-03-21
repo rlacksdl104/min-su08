@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 </span>
 <img src="https://img.shields.io/badge/android-34A853?style=flat&logo=android&logoColor=white"/></a>&nbsp
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=min-su08&show_icons=true&theme=github_dark_dimmed)
 
 
