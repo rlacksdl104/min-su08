@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=min-su08&show_icons=true&theme=dark)
 
-<img src="https://img.shields.io/badge/kotlin-34A853?style=flat&logo=kotlin&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/kotlin-34A853?style=flat&logo=kotlin&logoColor=7F52FF"/></a>
 
 
 
