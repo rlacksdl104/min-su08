@@ -24,6 +24,13 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=min-su08&show_icons=true&theme=dark)
 
+
+# Using npm
+npm install --save github-calendar
+
+# Using yarn
+yarn add github-calendar
+
 <!-- Include the library. -->
 <script
   src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js">
