@@ -21,11 +21,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
   </a>
 </span>
-<span>
-  <a href="https://www.discord.com/choi_min.su/">
-    <img src="https://img.shields.io/badge/discord-5865F2?style=plastic&logo=discord&logoColor=white"/>
-  </a>
-</span>
+
 <img src="https://img.shields.io/badge/android-34A853?style=flat&logo=android&logoColor=white"/></a>&nbsp
 <p>
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">  
