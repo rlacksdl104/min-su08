@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <span>
   <a href="https://www.instagram.com/m.in_su07/">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=7F52FF"/></a>&nbsp
   </a>
 </span>
 <img src="https://img.shields.io/badge/android-34A853?style=flat&logo=android&logoColor=white"/></a>&nbsp
