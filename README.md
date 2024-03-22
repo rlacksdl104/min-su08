@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=min-su08&theme=high-contrast&height=250" alt="GitHub Activity Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=min-su08&theme=high-contrast&height=230" alt="GitHub Activity Graph">
 <span>
   <a href="https://www.instagram.com/m.in_su07/">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
