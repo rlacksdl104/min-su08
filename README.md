@@ -24,6 +24,9 @@ Here are some ideas to get you started:
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=min-su08&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
 </p>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmin-su08%2Fmin-su08%2Fedit%2Fmain%2FREADME.md&count_bg=%2379C83D&title_bg=%23496644&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<br>
+<br>
 <span>
   <a href="https://www.instagram.com/m.in_su07/">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
@@ -38,8 +41,6 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=min-su08&show_icons=true&theme=dark)
-
-
 
 
 
