@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**min-su08/min-su08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rlacksld104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align='center'><i><a href="https://github.com/min-su08/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<h2 align='center'><i><a href="https://github.com/rlacksdl104">Activity Graph 📈</i></h2>
   <p align="center">
 <a href="https://github.com/min-su08/github-readme-activity-graph#gh-light-mode-only">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=min-su08&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
